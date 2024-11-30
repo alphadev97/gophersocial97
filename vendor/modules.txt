@@ -1,9 +1,0 @@
-# github.com/go-chi/chi/v5 v5.1.0
-## explicit; go 1.14
-github.com/go-chi/chi/v5
-github.com/go-chi/chi/v5/middleware
-# github.com/lib/pq v1.10.9
-## explicit; go 1.13
-github.com/lib/pq
-github.com/lib/pq/oid
-github.com/lib/pq/scram
