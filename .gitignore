@@ -5,6 +5,8 @@
 *.so
 *.dylib
 
+/bin
+
 # Output of build tools
 *.out
 *.a
